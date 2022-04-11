@@ -1,0 +1,792 @@
+[INFO ] 18:03:35.668 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:03:35.668 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:03:35.793 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:03:35.820 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:03:35.823 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:03:35.823 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:03:35.823 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:03:35.837 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:03:35.837 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 166 ms
+[INFO ] 18:03:35.906 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:03:35.912 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:03:35.915 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:03:35.921 com.app.memo.MemoApplication - Started MemoApplication in 0.277 seconds (JVM running for 264.071)
+[INFO ] 18:03:35.923 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:04:23.333 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:04:23.333 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:04:23.455 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:04:23.482 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:04:23.482 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:04:23.482 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:04:23.482 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:04:23.496 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:04:23.496 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 161 ms
+[INFO ] 18:04:23.566 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:04:23.572 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:04:23.574 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:04:23.578 com.app.memo.MemoApplication - Started MemoApplication in 0.27 seconds (JVM running for 311.729)
+[INFO ] 18:04:23.579 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:04:52.589 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:04:52.589 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:04:52.720 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:04:52.755 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:04:52.756 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:04:52.756 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:04:52.756 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:04:52.775 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:04:52.775 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 184 ms
+[INFO ] 18:04:52.857 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:04:52.862 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:04:52.866 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:04:52.871 com.app.memo.MemoApplication - Started MemoApplication in 0.305 seconds (JVM running for 341.021)
+[INFO ] 18:04:52.872 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:07:26.651 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:07:26.651 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:07:26.765 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:07:26.793 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:07:26.794 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:07:26.794 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:07:26.794 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:07:26.809 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:07:26.809 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 156 ms
+[INFO ] 18:07:26.875 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:07:26.879 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:07:26.881 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:07:26.886 com.app.memo.MemoApplication - Started MemoApplication in 0.256 seconds (JVM running for 495.036)
+[INFO ] 18:07:26.887 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:07:44.680 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:07:44.680 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:07:44.791 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:07:44.817 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:07:44.818 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:07:44.818 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:07:44.818 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:07:44.833 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:07:44.833 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 151 ms
+[INFO ] 18:07:44.894 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:07:44.899 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:07:44.901 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:07:44.907 com.app.memo.MemoApplication - Started MemoApplication in 0.253 seconds (JVM running for 513.058)
+[INFO ] 18:07:44.909 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:07:49.404 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:07:49.404 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:07:49.406 o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+[INFO ] 18:07:49.406 com.app.memo.info.InfoController - /info start
+[INFO ] 18:07:49.958 com.app.memo.info.InfoController - /info start
+[INFO ] 18:07:50.110 com.app.memo.info.InfoController - /info start
+[INFO ] 18:09:56.041 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:09:56.041 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:09:56.193 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:09:56.222 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:09:56.223 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:09:56.223 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:09:56.223 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:09:56.236 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:09:56.236 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 193 ms
+[INFO ] 18:09:56.310 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:09:56.314 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:09:56.321 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:09:56.328 com.app.memo.MemoApplication - Started MemoApplication in 0.32 seconds (JVM running for 644.479)
+[INFO ] 18:09:56.330 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:10:16.139 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:10:16.140 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:10:16.254 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:10:16.279 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:10:16.281 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:10:16.282 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:10:16.282 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:10:16.295 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:10:16.295 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 154 ms
+[INFO ] 18:10:16.356 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:10:16.361 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:10:16.364 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:10:16.370 com.app.memo.MemoApplication - Started MemoApplication in 0.257 seconds (JVM running for 664.52)
+[INFO ] 18:10:16.371 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:10:50.987 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:10:50.987 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:10:51.094 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:10:51.120 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:10:51.120 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:10:51.123 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:10:51.123 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:10:51.137 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:10:51.137 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 149 ms
+[INFO ] 18:10:51.213 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:10:51.220 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:10:51.224 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:10:51.230 com.app.memo.MemoApplication - Started MemoApplication in 0.264 seconds (JVM running for 699.38)
+[INFO ] 18:10:51.232 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:10:56.724 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:10:56.724 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:10:56.880 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:10:56.903 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:10:56.904 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:10:56.904 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:10:56.904 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:10:56.933 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:10:56.933 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 207 ms
+[INFO ] 18:10:56.995 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:10:56.999 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:10:57.002 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:10:57.006 com.app.memo.MemoApplication - Started MemoApplication in 0.309 seconds (JVM running for 705.157)
+[INFO ] 18:10:57.007 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:11:40.117 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:11:40.117 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:11:40.226 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:11:40.249 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:11:40.249 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:11:40.250 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:11:40.250 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:11:40.266 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:11:40.266 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 147 ms
+[INFO ] 18:11:40.336 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:11:40.341 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:11:40.344 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:11:40.349 com.app.memo.MemoApplication - Started MemoApplication in 0.253 seconds (JVM running for 748.499)
+[INFO ] 18:11:40.351 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:12:57.300 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:12:57.300 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:12:57.406 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:12:57.432 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:12:57.432 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:12:57.432 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:12:57.432 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:12:57.447 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:12:57.447 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 146 ms
+[WARN ] 18:12:57.465 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cityRepository' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\repository\CityRepository.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved to a variable
+	MapSqlParameterSource cannot be resolved to a type
+
+[INFO ] 18:12:57.465 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[ERROR] 18:12:57.484 o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cityRepository' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\repository\CityRepository.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved to a variable
+	MapSqlParameterSource cannot be resolved to a type
+
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:315)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:296)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.app.memo.MemoApplication.main(MemoApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved to a variable
+	MapSqlParameterSource cannot be resolved to a type
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:311)
+	... 24 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved
+	city cannot be resolved to a variable
+	MapSqlParameterSource cannot be resolved to a type
+
+	at com.app.memo.info.repository.CityRepository.<init>(CityRepository.java:29)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 26 common frames omitted
+[INFO ] 18:13:27.479 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:13:27.479 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:13:27.588 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:13:27.610 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:13:27.611 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:13:27.611 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:13:27.611 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:13:27.625 o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:13:27.626 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 146 ms
+[WARN ] 18:13:27.644 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cityRepository' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\repository\CityRepository.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	city cannot be resolved to a variable
+	MapSqlParameterSource cannot be resolved to a type
+
+[INFO ] 18:13:27.644 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[ERROR] 18:13:27.652 o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cityRepository' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\repository\CityRepository.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	city cannot be resolved to a variable
+	MapSqlParameterSource cannot be resolved to a type
+
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:315)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:296)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.app.memo.MemoApplication.main(MemoApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	city cannot be resolved to a variable
+	MapSqlParameterSource cannot be resolved to a type
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:311)
+	... 24 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	city cannot be resolved to a variable
+	MapSqlParameterSource cannot be resolved to a type
+
+	at com.app.memo.info.repository.CityRepository.<init>(CityRepository.java:29)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 26 common frames omitted
+[INFO ] 18:13:36.236 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:13:36.236 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:13:36.346 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:13:36.370 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:13:36.371 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:13:36.371 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:13:36.371 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:13:36.385 o.a.c.c.C.[Tomcat-2].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:13:36.385 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 148 ms
+[WARN ] 18:13:36.406 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cityRepository' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\repository\CityRepository.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	MapSqlParameterSource cannot be resolved to a type
+
+[INFO ] 18:13:36.407 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[ERROR] 18:13:36.413 o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cityRepository' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\repository\CityRepository.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	MapSqlParameterSource cannot be resolved to a type
+
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:315)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:296)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.app.memo.MemoApplication.main(MemoApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	MapSqlParameterSource cannot be resolved to a type
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:311)
+	... 24 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	MapSqlParameterSource cannot be resolved to a type
+
+	at com.app.memo.info.repository.CityRepository.<init>(CityRepository.java:29)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 26 common frames omitted
+[INFO ] 18:13:53.209 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:13:53.210 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:13:53.332 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:13:53.362 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:13:53.363 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:13:53.363 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:13:53.363 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:13:53.401 o.a.c.c.C.[Tomcat-3].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:13:53.401 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 190 ms
+[WARN ] 18:13:53.425 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cityRepository' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\repository\CityRepository.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	MapSqlParameterSource cannot be resolved to a type
+
+[INFO ] 18:13:53.425 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[ERROR] 18:13:53.434 o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cityRepository' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\repository\CityRepository.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	MapSqlParameterSource cannot be resolved to a type
+
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:315)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:296)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.app.memo.MemoApplication.main(MemoApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.app.memo.info.repository.CityRepository]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	MapSqlParameterSource cannot be resolved to a type
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:311)
+	... 24 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The method setId(String) in the type Sawon is not applicable for the arguments (int)
+	The method setPw(String) in the type Sawon is not applicable for the arguments (int)
+	MapSqlParameterSource cannot be resolved to a type
+
+	at com.app.memo.info.repository.CityRepository.<init>(CityRepository.java:29)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 26 common frames omitted
+[INFO ] 18:14:01.020 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:14:01.020 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:14:01.144 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:14:01.177 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:14:01.178 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:14:01.178 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:14:01.178 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:14:01.193 o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:14:01.193 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 172 ms
+[INFO ] 18:14:01.268 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:14:01.273 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:14:01.276 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:14:01.281 com.app.memo.MemoApplication - Started MemoApplication in 0.28 seconds (JVM running for 889.432)
+[INFO ] 18:14:01.283 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:14:04.808 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:14:04.808 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:14:04.913 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:14:04.940 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:14:04.940 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:14:04.941 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:14:04.941 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:14:04.956 o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:14:04.956 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 147 ms
+[INFO ] 18:14:05.026 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:14:05.030 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:14:05.033 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:14:05.039 com.app.memo.MemoApplication - Started MemoApplication in 0.25 seconds (JVM running for 893.189)
+[INFO ] 18:14:05.039 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:14:17.782 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:14:17.783 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:14:17.908 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:14:17.936 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:14:17.936 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:14:17.936 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:14:17.936 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:14:17.949 o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:14:17.950 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 164 ms
+[INFO ] 18:14:18.018 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:14:18.023 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:14:18.025 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:14:18.029 com.app.memo.MemoApplication - Started MemoApplication in 0.288 seconds (JVM running for 906.18)
+[INFO ] 18:14:18.031 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:15:47.221 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:15:47.221 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:15:47.329 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:15:47.356 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:15:47.357 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:15:47.357 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:15:47.357 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:15:47.372 o.a.c.c.C.[Tomcat-4].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:15:47.372 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 150 ms
+[WARN ] 18:15:47.378 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'infoController' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\InfoController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'infoService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.app.memo.info.InfoService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@36d902a9]
+[INFO ] 18:15:47.378 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[ERROR] 18:15:47.385 o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'infoController' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\InfoController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'infoService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.app.memo.info.InfoService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@36d902a9]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.app.memo.MemoApplication.main(MemoApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'infoService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.app.memo.info.InfoService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@36d902a9]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:289)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1302)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1219)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1389)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1309)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 24 common frames omitted
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.app.memo.info.InfoService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@36d902a9]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:485)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:321)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:267)
+	... 37 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: List
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3402)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:467)
+	... 39 common frames omitted
+Caused by: java.lang.ClassNotFoundException: List
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:145)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 43 common frames omitted
+[INFO ] 18:15:49.851 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:15:49.851 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:15:49.959 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:15:49.984 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:15:49.984 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:15:49.984 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:15:49.984 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:15:49.998 o.a.c.c.C.[Tomcat-5].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:15:49.998 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 145 ms
+[WARN ] 18:15:50.004 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'infoController' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\InfoController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'infoService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.app.memo.info.InfoService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@5052b06d]
+[INFO ] 18:15:50.004 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[ERROR] 18:15:50.011 o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'infoController' defined in file [C:\androidworkpace\memo\bin\main\com\app\memo\info\InfoController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'infoService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.app.memo.info.InfoService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@5052b06d]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.app.memo.MemoApplication.main(MemoApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'infoService': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.app.memo.info.InfoService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@5052b06d]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:289)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1302)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1219)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1389)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1309)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 24 common frames omitted
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.app.memo.info.InfoService] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@5052b06d]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:485)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:321)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:267)
+	... 37 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: List
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3402)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:467)
+	... 39 common frames omitted
+Caused by: java.lang.ClassNotFoundException: List
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:145)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 43 common frames omitted
+[INFO ] 18:15:53.516 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:15:53.516 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:15:53.633 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:15:53.658 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:15:53.658 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:15:53.658 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:15:53.658 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:15:53.671 o.a.c.c.C.[Tomcat-6].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:15:53.671 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 153 ms
+[INFO ] 18:15:53.764 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:15:53.768 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:15:53.771 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:15:53.776 com.app.memo.MemoApplication - Started MemoApplication in 0.286 seconds (JVM running for 1001.926)
+[INFO ] 18:15:53.777 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:15:57.310 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:15:57.310 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:15:57.421 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:15:57.446 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:15:57.446 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:15:57.446 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:15:57.446 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:15:57.460 o.a.c.c.C.[Tomcat-6].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:15:57.460 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 149 ms
+[INFO ] 18:15:57.537 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:15:57.543 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:15:57.546 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:15:57.551 com.app.memo.MemoApplication - Started MemoApplication in 0.26 seconds (JVM running for 1005.701)
+[INFO ] 18:15:57.552 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:16:15.355 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:16:15.355 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:16:15.465 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:16:15.488 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:16:15.488 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:16:15.488 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:16:15.488 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:16:15.502 o.a.c.c.C.[Tomcat-6].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:16:15.502 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 145 ms
+[INFO ] 18:16:15.575 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:16:15.580 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:16:15.583 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:16:15.589 com.app.memo.MemoApplication - Started MemoApplication in 0.253 seconds (JVM running for 1023.74)
+[INFO ] 18:16:15.591 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:16:21.540 o.a.c.c.C.[Tomcat-6].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:16:21.540 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:16:21.541 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 18:16:25.746 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 18:16:26.093 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[ERROR] 18:16:26.193 o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: PreparedStatementCallback; bad SQL grammar [select id,pw from sawon]; nested exception is java.sql.SQLSyntaxErrorException: Table 'sawon.sawon' doesn't exist] with root cause
+java.sql.SQLSyntaxErrorException: Table 'sawon.sawon' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1009)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.springframework.jdbc.core.JdbcTemplate$1.doInPreparedStatement(JdbcTemplate.java:722)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:651)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:713)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:738)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:794)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.query(NamedParameterJdbcTemplate.java:209)
+	at com.app.memo.info.repository.CityRepository.findList(CityRepository.java:35)
+	at com.app.memo.info.repository.CityRepository$$FastClassBySpringCGLIB$$a5f65b93.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:783)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698)
+	at com.app.memo.info.repository.CityRepository$$EnhancerBySpringCGLIB$$c81c48c0.findList(<generated>)
+	at com.app.memo.info.InfoService.getCityList(InfoService.java:33)
+	at com.app.memo.info.InfoController.cityList(InfoController.java:58)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[INFO ] 18:19:40.140 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 18:19:40.151 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 18:19:40.206 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:19:40.207 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 18:19:40.314 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:19:40.339 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:19:40.339 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:19:40.340 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:19:40.340 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:19:40.351 o.a.c.c.C.[Tomcat-6].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:19:40.351 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 143 ms
+[INFO ] 18:19:40.423 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:19:40.428 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:19:40.430 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:19:40.435 com.app.memo.MemoApplication - Started MemoApplication in 0.249 seconds (JVM running for 1228.586)
+[INFO ] 18:19:40.437 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 18:19:42.219 o.a.c.c.C.[Tomcat-6].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:19:42.220 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:19:42.221 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 18:19:42.227 com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+[INFO ] 18:19:42.249 com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+[INFO ] 18:23:33.222 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 18:23:33.257 com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+[INFO ] 18:23:33.264 com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+[INFO ] 19:03:15.416 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 18044 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 19:03:15.418 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 19:03:15.499 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 19:03:15.499 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[WARN ] 19:03:16.490 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 19:03:17.101 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:03:17.115 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:03:17.115 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:03:17.116 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 19:03:17.223 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:03:17.223 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1722 ms
+[INFO ] 19:03:17.975 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 19:03:17.993 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:03:18.024 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:03:18.049 com.app.memo.MemoApplication - Started MemoApplication in 3.395 seconds (JVM running for 4.644)
+[INFO ] 19:05:16.662 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.

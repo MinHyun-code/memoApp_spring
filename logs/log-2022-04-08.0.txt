@@ -1,0 +1,20 @@
+[INFO ] 13:10:05.899 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 23888 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 13:10:05.902 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 13:10:05.947 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 13:10:05.947 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[WARN ] 13:10:06.459 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 13:10:06.808 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 13:10:06.815 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 13:10:06.816 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 13:10:06.816 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 13:10:06.884 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 13:10:06.884 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 937 ms
+[INFO ] 13:10:07.327 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 13:10:07.340 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 13:10:07.357 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 13:10:07.370 com.app.memo.MemoApplication - Started MemoApplication in 1.911 seconds (JVM running for 2.653)
+[INFO ] 13:10:13.337 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 13:10:13.338 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 13:10:13.338 o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+[INFO ] 13:10:13.355 com.app.memo.info.InfoController - /info start
+[INFO ] 13:10:42.699 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.

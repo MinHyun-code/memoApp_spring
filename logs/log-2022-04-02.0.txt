@@ -1,0 +1,23 @@
+[INFO ] 19:48:06.579 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 10972 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 19:48:06.582 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 19:48:06.628 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 19:48:06.628 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[WARN ] 19:48:07.388 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 19:48:07.869 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:48:07.886 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:48:07.886 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:48:07.886 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 19:48:08.083 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:48:08.084 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1455 ms
+[INFO ] 19:48:08.757 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 19:48:08.773 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:48:08.794 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:48:08.811 com.app.memo.MemoApplication - Started MemoApplication in 2.944 seconds (JVM running for 4.036)
+[INFO ] 19:48:24.600 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:48:24.600 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:48:24.602 o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+[INFO ] 19:48:35.944 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:48:36.659 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:51:58.313 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 19:51:58.484 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:51:58.511 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

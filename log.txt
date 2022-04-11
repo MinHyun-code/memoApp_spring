@@ -1,0 +1,38 @@
+[INFO ] 17:57:26.245 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 7696 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 17:57:26.246 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[WARN ] 17:57:26.396 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 17:57:26.449 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 17:57:26.450 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:57:26.451 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:57:26.452 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 17:57:26.474 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:57:26.474 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 226 ms
+[INFO ] 17:57:26.555 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:57:26.560 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:57:26.563 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 17:57:26.569 com.app.memo.MemoApplication - Started MemoApplication in 0.365 seconds (JVM running for 1211.191)
+[INFO ] 17:57:26.570 o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 17:58:49.718 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 17:58:49.719 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 17:58:49.720 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 17:58:49.721 com.app.memo.info.InfoController - /info start
+[INFO ] 17:59:02.497 o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 17:59:12.831 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 26388 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 17:59:12.832 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 17:59:12.874 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 17:59:12.874 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[WARN ] 17:59:13.335 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 17:59:13.658 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 17:59:13.665 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:59:13.665 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 17:59:13.665 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 17:59:13.727 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 17:59:13.727 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 852 ms
+[INFO ] 17:59:14.089 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 17:59:14.104 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 17:59:14.122 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 17:59:14.133 com.app.memo.MemoApplication - Started MemoApplication in 1.649 seconds (JVM running for 2.284)
+[INFO ] 17:59:28.153 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 17:59:28.153 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 17:59:28.155 o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+[INFO ] 17:59:28.172 com.app.memo.info.InfoController - /info start

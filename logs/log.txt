@@ -1,0 +1,30 @@
+[INFO ] 18:09:27.368 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 10008 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:09:27.371 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 18:09:27.428 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 18:09:27.428 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[WARN ] 18:09:28.285 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:09:29.040 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:09:29.052 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:09:29.053 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:09:29.053 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:09:29.169 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:09:29.170 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1741 ms
+[INFO ] 18:09:30.218 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:09:30.296 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:09:31.305 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:09:31.329 com.app.memo.MemoApplication - Started MemoApplication in 4.842 seconds (JVM running for 6.961)
+[INFO ] 18:13:53.755 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 7468 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:13:53.756 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 18:13:53.830 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 18:13:53.830 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[WARN ] 18:13:54.530 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:13:55.040 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:13:55.049 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:13:55.049 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:13:55.049 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:13:55.120 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:13:55.120 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1289 ms
+[INFO ] 18:13:55.750 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:13:55.765 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:13:55.795 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:13:55.810 com.app.memo.MemoApplication - Started MemoApplication in 2.682 seconds (JVM running for 3.82)

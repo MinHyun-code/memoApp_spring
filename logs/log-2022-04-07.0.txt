@@ -1,0 +1,19 @@
+[INFO ] 18:06:18.507 com.app.memo.MemoApplication - Starting MemoApplication using Java 17.0.1 on mhan with PID 9504 (C:\androidworkpace\memo\bin\main started by user in C:\androidworkpace\memo)
+[INFO ] 18:06:18.510 com.app.memo.MemoApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 18:06:18.568 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 18:06:18.568 o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[WARN ] 18:06:19.338 o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.app.memo]' package. Please check your configuration.
+[INFO ] 18:06:19.810 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:06:19.827 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:06:19.828 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:06:19.828 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+[INFO ] 18:06:19.913 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:06:19.913 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1345 ms
+[INFO ] 18:06:20.525 o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 18:06:20.541 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:06:20.573 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:06:20.594 com.app.memo.MemoApplication - Started MemoApplication in 2.63 seconds (JVM running for 3.634)
+[INFO ] 18:06:22.775 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:06:22.775 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:06:22.776 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 18:06:37.564 com.app.memo.info.InfoController - /info start
